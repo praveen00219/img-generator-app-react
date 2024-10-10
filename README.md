@@ -12,7 +12,7 @@ This is a modern React-based image search application that uses the Unsplash API
 
 ## Live Demo
 
-You can view a live demo of the application, [here]()
+You can view a live demo of the application, [here](https://praveen-img-generator-react-app.netlify.app/)
 
 ## Usage
 

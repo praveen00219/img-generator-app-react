@@ -23,7 +23,7 @@ const App = () => {
             per_page: 10,
           },
           headers: {
-            Authorization: `Client-ID fblvEw8nfIVCRehFXzSoBBN2Y_lrzMZFDMhQHSJZeY8`, // Replace with your Unsplash API key
+            Authorization: `Client-ID fblvEw8nfIVCRehFXzSoBBN2Y_lrzMZFDMhQHSJZeY8`,
           },
         }
       );
